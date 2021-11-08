@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "574839626899",
+    "firebase_url": "https://moodledev2021-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "moodledev2021",
     "storage_bucket": "moodledev2021.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "574839626899-av7dt7jh9j5ofvdk5nocjeffn03qkngu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.usth.moodlenew",
+            "certificate_hash": "02d5b5542867fce0cea2fe32d13f48a14726030f"
+          }
+        },
         {
           "client_id": "574839626899-9nm9qepkjbsm6iqcqn5g71cln5caod65.apps.googleusercontent.com",
           "client_type": 3

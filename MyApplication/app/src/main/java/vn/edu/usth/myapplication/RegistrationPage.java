@@ -24,6 +24,7 @@ public class RegistrationPage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.registration_page);
+
         user_name=findViewById(R.id.username);
         pass_word=findViewById(R.id.password1);
         btn2_signup=findViewById(R.id.sign);
